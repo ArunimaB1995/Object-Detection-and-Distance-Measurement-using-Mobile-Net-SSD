@@ -1,4 +1,4 @@
-# Object-Detection-and-Distance-Measurement-using-Mobile-Net-SSD
+# Object-Detection-and-Distance-Measurement-using-MobileNet-SSD
 Using OpenCV 4.0.1, Python 3.8 and Tensorflow 2.3, object detection and distance measurement in real-time is obtained.
 For distance measurement, Triangle Similarity algorithm is used. For more information visit this link : 
 https://www.pyimagesearch.com/2015/01/19/find-distance-camera-objectmarker-using-python-opencv/ 
