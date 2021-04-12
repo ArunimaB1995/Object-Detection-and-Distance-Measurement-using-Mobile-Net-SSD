@@ -19,6 +19,6 @@ object & distance.ipynb
 ```
 
 # Download the demo file
-https://bit.ly/3dSA8SQ
+https://bit.ly/3a2vLTU
 
 
