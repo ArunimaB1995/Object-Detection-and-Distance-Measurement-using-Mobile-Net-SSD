@@ -6,19 +6,24 @@ and this repo : https://github.com/Subikshaa/Social-Distance-Detection-using-Ope
 Webcam is used to capture the video, detect the objects and measure the distance from webcam in real-time.
 The mobilenet-ssd model is a Single-Shot multibox Detection (SSD) network intended to perform object detection. This model is implemented using the Caffe* framework. 
 
+## Introduction
+
+What is Object Detection?
+Object detection can be defined as a branch of computer vision which deals with the localization and the identification of an object. Object localization and identification are two different tasks that are put together to achieve this singular goal of object detection.
+
 
 ![](demo.gif)
 
-# Setup (Packages version)
+## Setup (Packages version)
 ```
 pip install -r requirements.txt
 ```
-# Execute the .ipynb file
+## Execute the .ipynb file
 ```
 object & distance.ipynb
 ```
 
-# Download the demo file
+## Download the demo file
 https://bit.ly/3a2vLTU
 
 
