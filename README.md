@@ -10,7 +10,7 @@ The mobilenet-ssd model is a Single-Shot multibox Detection (SSD) network intend
 
 What is Object Detection? 
 <p> Object detection can be defined as a branch of computer vision which deals with the localization and the identification of an object. Object localization and identification are two different tasks that are put together to achieve this singular goal of object detection. Object localization deals with specifying the location of an object in an image or a video stream, while object identification deals with assigning the object to a specific label, class, or description. Here, object identification is specifically done along with distance measurement. </p>
-**MobileNet** is an object detector released in 2017 as an efficient CNN architecture designed for mobile and embedded vision application. This architecture uses proven depth-wise separable convolutions to build lightweight deep neural networks. For more details about MobileNet SSD's, visit here : https://docs.openvinotoolkit.org/2021.2/omz_models_public_mobilenet_ssd_mobilenet_ssd.html 
+<b>MobileNet</b> is an object detector released in 2017 as an efficient CNN architecture designed for mobile and embedded vision application. This architecture uses proven depth-wise separable convolutions to build lightweight deep neural networks. For more details about MobileNet SSD's, visit here : https://docs.openvinotoolkit.org/2021.2/omz_models_public_mobilenet_ssd_mobilenet_ssd.html 
 
 
 ![](demo.gif)
