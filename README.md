@@ -13,7 +13,7 @@ What is Object Detection?
 <p><b>MobileNet</b> is an object detector released in 2017 as an efficient CNN architecture designed for mobile and embedded vision application. This architecture uses proven depth-wise separable convolutions to build lightweight deep neural networks. For more details about MobileNet SSD's, visit here : https://docs.openvinotoolkit.org/2021.2/omz_models_public_mobilenet_ssd_mobilenet_ssd.html </p>
 
 
-<c>![](demo.gif)</c>
+![](demo.gif)
 
 ## Setup (Packages version)
 ```
