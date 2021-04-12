@@ -8,3 +8,8 @@ The mobilenet-ssd model is a Single-Shot multibox Detection (SSD) network intend
 
 
 ![](demo.gif)
+
+#Setup 
+'''ruby
+pip install -r requirements.txt
+'''
