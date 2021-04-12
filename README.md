@@ -9,18 +9,16 @@ The mobilenet-ssd model is a Single-Shot multibox Detection (SSD) network intend
 
 ![](demo.gif)
 
-# Setup 
+# Setup (Packages version)
 ```
-
 pip install -r requirements.txt
-
 ```
 # Execute the .ipynb file
 ```
 object & distance.ipynb
 ```
 
-# Demo 
-
+# Download the demo file
+https://bit.ly/3dSA8SQ
 
 
