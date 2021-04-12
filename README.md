@@ -5,3 +5,5 @@ https://www.pyimagesearch.com/2015/01/19/find-distance-camera-objectmarker-using
 and this repo : https://github.com/Subikshaa/Social-Distance-Detection-using-OpenCV/blob/master/social_distance_detection.py
 Webcam is used to capture the video, detect the objects and measure the distance from webcam in real-time.
 
+The mobilenet-ssd model is a Single-Shot multibox Detection (SSD) network intended to perform object detection. This model is implemented using the Caffe* framework. 
+![](demo.gif)
