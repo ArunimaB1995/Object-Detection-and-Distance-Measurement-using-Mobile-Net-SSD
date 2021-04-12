@@ -4,3 +4,4 @@ For distance measurement, Traingle Similarity algorithm is used. For more inform
 https://www.pyimagesearch.com/2015/01/19/find-distance-camera-objectmarker-using-python-opencv/ 
 and this repo : https://github.com/Subikshaa/Social-Distance-Detection-using-OpenCV/blob/master/social_distance_detection.py
 Webcam is used to capture the video, detect the objects and measure the distance from webcam in real-time.
+
