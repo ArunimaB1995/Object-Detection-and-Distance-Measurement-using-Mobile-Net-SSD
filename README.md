@@ -27,4 +27,8 @@ object & distance.ipynb
 ## Download the demo file
 https://bit.ly/3a2vLTU
 
+## Other Object Detection models
+
+https://bit.ly/3tdrzsb
+
 
